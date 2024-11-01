@@ -1,2 +1,5 @@
-/swagger.yaml.yaml
+# Ignorar a pasta venv inteira
 venv/
+
+# Ignorar o arquivo swagger.yaml, caso esteja na raiz do projeto
+/swagger.yaml
